@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Cláudio Barroso.<br>I'm from Portugal.</p>
+<p align="left">My name is Cláudio Barroso.</p>
 
 ###
 
