@@ -3,7 +3,7 @@
 <h1 align="left">Hey!!! What's up?</h1>
 
 ###
-<p align="left">My name is Cláudio Barroso. I like and i work with programming </p>
+<p align="left">My name is Cláudio Barroso. I 20 but feel like 30 right now.. </p>
 
 ### Skills:
 <div align="left">
