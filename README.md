@@ -1,4 +1,3 @@
-### I'm a thug.
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP logo"  />
   <img width="12" />
