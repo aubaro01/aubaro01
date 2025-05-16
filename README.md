@@ -1,5 +1,6 @@
 <!--**camilafernanda2/camilafernanda2** é um repositório ✨ _especial_ ✨ porque seu `README.md` (este arquivo) aparece em seu perfil GitHub.
 <img width=100% src ="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=10"/>-->
+# Languages
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP logo"  />
   <img width="12" />
@@ -26,6 +27,7 @@
 
 <img width=100% src ="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=10"/>
 
+# Tools
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="Postman logo"  />
   <img width="12" />
